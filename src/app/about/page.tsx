@@ -52,13 +52,13 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-4 text-[var(--charcoal-light)]">
                 <p>
-                  Cleaning Right Now was founded with a simple mission: to provide exceptional cleaning services that make a real difference in people&apos;s lives.
+                  Cleaning Right Now was founded with a simple mission: to provide exceptional cleaning services that make a real difference in people&apos;s lives—and in their guest reviews.
                 </p>
                 <p>
-                  What started as a small operation has grown into a trusted name in the Portland area, serving hundreds of homes and vacation rentals. Our growth is built entirely on word-of-mouth referrals from satisfied clients who experience the difference our attention to detail makes.
+                  What started as a small operation has grown into a trusted name along the Lake Michigan shoreline, serving luxury vacation rentals in Saugatuck, Douglas, Fennville, and beyond. Our growth is built entirely on word-of-mouth referrals from property managers who experience the difference our attention to detail makes.
                 </p>
                 <p>
-                  Today, we continue to uphold the same values that started our journey: treating every space with respect, delivering consistent quality, and building lasting relationships with our clients.
+                  Today, we continue to uphold the same values that started our journey: the Barefoot Standard—treating every space with respect, delivering consistent quality that earns 5-star reviews, and building lasting relationships with our clients.
                 </p>
               </div>
             </div>

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const footerLinks = {
   services: [
@@ -23,9 +24,13 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <Link href="/" className="block mb-4">
-              <span className="text-2xl font-serif font-semibold">
-                Cleaning <span className="text-[var(--gold)]">Right Now</span>
-              </span>
+              <Image
+                src="/logo.svg"
+                alt="Cleaning Right Now"
+                width={150}
+                height={50}
+                className="h-10 w-auto brightness-0 invert"
+              />
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed mb-4">
               The Barefoot Standard in vacation rental turnovers. Serving Lake Michigan&apos;s premier properties.
