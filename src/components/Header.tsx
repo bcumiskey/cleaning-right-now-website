@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { useState } from "react";
 
 const navLinks = [
@@ -23,14 +22,9 @@ export default function Header() {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3">
-            <Image
-              src="/logo.svg"
-              alt="Cleaning Right Now"
-              width={180}
-              height={60}
-              className="h-12 md:h-14 w-auto"
-              priority
-            />
+            <span className="text-2xl md:text-3xl font-serif font-semibold text-[var(--charcoal)]">
+              Cleaning <span className="text-[var(--gold)]">Right Now</span>
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
