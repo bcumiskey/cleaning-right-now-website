@@ -38,14 +38,14 @@ const services = [
 
 const testimonials = [
   {
-    quote: "They transformed my Airbnb turnover process. My guests constantly compliment how spotless the place is.",
-    author: "Sarah M.",
-    title: "Vacation Rental Owner",
+    quote: "5/5 - the best Airbnb we have ever stayed in. The house is pristine, well maintained, clean, and the amenities are top-tier!",
+    author: "Shawn",
+    title: "Columbus, Ohio",
   },
   {
-    quote: "Professional, reliable, and thorough. I've been using them for over two years and couldn't be happier.",
-    author: "Michael R.",
-    title: "Homeowner",
+    quote: "Spotlessly cleaned home, absolutely EVERY household item you can think of. I would have given it 6 stars if that was an option!",
+    author: "Drew",
+    title: "Crystal Lake, Illinois",
   },
 ];
 
@@ -181,10 +181,10 @@ export default function Home() {
                   ))}
                 </div>
                 <blockquote className="text-lg font-serif text-[var(--charcoal)] mb-4 italic">
-                  &ldquo;The best cleaning service I&apos;ve ever used. They make my rental properties shine.&rdquo;
+                  &ldquo;It was so clean that even my wife, who never goes barefoot in Airbnbs, felt comfortable walking around barefoot!&rdquo;
                 </blockquote>
                 <cite className="text-sm text-[var(--charcoal-light)] not-italic">
-                  — Jennifer K., Property Manager
+                  — Nate & Sutton, Georgia
                 </cite>
               </div>
             </div>
