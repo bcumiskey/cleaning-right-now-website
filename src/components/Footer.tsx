@@ -27,8 +27,11 @@ export default function Footer() {
                 Cleaning <span className="text-[var(--gold)]">Right Now</span>
               </span>
             </Link>
-            <p className="text-gray-400 text-sm leading-relaxed">
-              Premium cleaning services trusted by homeowners and vacation rental managers.
+            <p className="text-gray-400 text-sm leading-relaxed mb-4">
+              The Barefoot Standard in vacation rental turnovers. Serving Lake Michigan&apos;s premier properties.
+            </p>
+            <p className="text-xs text-gray-500">
+              Saugatuck • Douglas • Fennville • Holland
             </p>
           </div>
 
@@ -76,7 +79,7 @@ export default function Footer() {
               Contact
             </h3>
             <div className="space-y-3 text-gray-400 text-sm">
-              <p>Portland, Oregon</p>
+              <p>Western Michigan</p>
               <p>
                 <a
                   href="tel:+15551234567"

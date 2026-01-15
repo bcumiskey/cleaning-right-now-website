@@ -208,8 +208,8 @@ export default function ContactPage() {
                       </svg>
                     </div>
                     <div>
-                      <div className="font-medium text-[var(--charcoal)]">Location</div>
-                      <span className="text-[var(--charcoal-light)]">Portland, Oregon</span>
+                      <div className="font-medium text-[var(--charcoal)]">Service Area</div>
+                      <span className="text-[var(--charcoal-light)]">Saugatuck, Douglas, Fennville & Lake Michigan Shore</span>
                     </div>
                   </div>
                 </div>
