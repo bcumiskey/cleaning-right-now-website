@@ -6,7 +6,7 @@ import { useState } from "react";
 const faqs = [
   {
     question: "What areas do you serve?",
-    answer: "We proudly serve the greater Portland, Oregon area including surrounding suburbs. If you're unsure whether we cover your location, please contact us and we'll let you know.",
+    answer: "We proudly serve the Lake Michigan vacation rental community including Saugatuck, Douglas, Fennville, Holland, South Haven, and Grand Haven. If you're unsure whether we cover your property location, please contact us.",
   },
   {
     question: "How do I book a cleaning?",
